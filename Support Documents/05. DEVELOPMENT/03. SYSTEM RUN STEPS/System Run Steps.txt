@@ -1,0 +1,14 @@
+01. Install Xampp Server
+02. Create Database as "tourism_management"
+03. Import the Database From DEVELOPMENT>BACKEND>DATABASE
+04. Install Eclipse
+05. Click File > Import
+06. Type Maven in the search box under Select an import source
+07. Select deeloped Maven Project
+08. Click Next
+09. Click Browse and select the folder that is the root of the Maven project (probably contains       the pom.xml file)
+10. Click Next
+11. Click Finish
+12. Config Tomcat Server
+13. Add JAR File
+14. Right Click>Run as Maven
